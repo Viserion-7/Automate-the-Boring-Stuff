@@ -19,4 +19,5 @@ while True:
                 break
         break
     except ValueError:
+        print("Enter an integer")
         continue
