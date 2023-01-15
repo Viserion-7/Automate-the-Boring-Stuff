@@ -1,3 +1,3 @@
-#Automate the Boring Stuff
+# Automate the Boring Stuff
 
 Solutions for the practice project
