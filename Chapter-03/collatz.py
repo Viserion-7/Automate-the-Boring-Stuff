@@ -10,7 +10,7 @@ def collatz(number):
     return a
 while True:
     try:
-        n=int(input())
+        n=int(input("Enter Number :\n"))
         x=collatz(n)
         while True:
             if x!=1:
