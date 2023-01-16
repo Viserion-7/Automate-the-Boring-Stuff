@@ -1,4 +1,3 @@
-import sys
 def collatz(number):
     if number%2==0:
         a=number//2
