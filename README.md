@@ -1,3 +1,3 @@
 # Automate the Boring Stuff
 
-Solutions for the practice project
+Solutions to the questions avaialble on [website](https://automatetheboringstuff.com/)
